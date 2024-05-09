@@ -1,22 +1,8 @@
 # Deserialization-Insecure
- by k0mth3 and Tryhackme
-           ____                      ,
-          /---.'.__             ____//
-               '--.\           /.---'
-          _______  \\         //
-        /.------.\  \|      .'/  ______
-       //  ___  \ \ ||/|\  //  _/_----.\__
-      |/  /.-.\  \ \:|< >|// _/.'..\   '--'
-         //   \'. | \'.|.'/ /_/ /  \\
-        //     \ \_\/" ' ~\-'.-'    \\
-       //       '-._| :H: |'-.__     \\
-      //           (/'==='\)'-._\     ||
-      ||                        \\    \|
-      ||                         \\    '
-      |/                          \\
-                                   ||
-                                   ||
-                                   \\
+    ## by K0mK0m and Tryhackme Guide.
+    
+   ![image](https://github.com/Komthie/Deserialization-Insecure/assets/95933637/3156978c-f44b-40dc-9eb8-e9e85b692af4)
+
 
     ## Insecure Deserialization: A Comprehensive Guide for Developers K0mth3
 
