@@ -1,4 +1,6 @@
-# Deserialization-Insecure
+# Insecure Deserialization Vulnerability:
+    ## Insecure Deserialization: A Comprehensive Guide for Developers K0mth3
+
     ## by K0mK0m and Tryhackme Guide.
     
    ![image](https://github.com/Komthie/Deserialization-Insecure/assets/95933637/3156978c-f44b-40dc-9eb8-e9e85b692af4)
