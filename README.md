@@ -1,5 +1,5 @@
 # Insecure Deserialization Vulnerability:
-    ## Insecure Deserialization: A Comprehensive Guide for Developers K0mth3
+    ## Insecure Deserialization: A Comprehensive Guide for Developers by K0mk0m
 
     ## by K0mK0m and Tryhackme Guide.
     
