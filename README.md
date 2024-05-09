@@ -79,3 +79,8 @@ Several measures can be taken to prevent insecure deserialization:
 
                            **Links**
   https://tryhackme.com/r/room/insecuredeserialisation
+  https://portswigger.net/web-security/deserialization
+  https://rodolfomarianocy.medium.com/insecure-deserialization-entenda-e-explore-f9c31bba85a2
+  https://learn.snyk.io/lesson/insecure-deserialization/
+  https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html
+  https://book.hacktricks.xyz/pentesting-web/deserialization
