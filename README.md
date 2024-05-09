@@ -18,7 +18,7 @@ In programming, serialization is the process of converting an object's state int
 
 ```php
 <?php
-$noteArray = array("title" => "My THM Note", "content" => "0xnc doesn't exists!");
+$noteArray = array("title" => "K0mN0t3D4t4", "content" => "0xnc doesn't exists!");
 $serialisedNote = serialize($noteArray); // Converting the note into a storable format
 file_put_contents('note.txt', $serialisedNote); // Saving the serialised note to a file
 ?>
@@ -26,7 +26,7 @@ file_put_contents('note.txt', $serialisedNote); // Saving the serialised note to
 
 The output shows the serialized string in the `note.txt`, which includes details of the note's structure and content. This allows data to be stored in a way that can be easily saved or transmitted.
 
-**Serialized Note**: `a:2:{s:5:"title";s:12:"My THM Note";s:7:"content";s:12:"0xnc doesn't exists!";}`
+**Serialized Note**: `a:2:{s:5:"title";s:12:K0mN0t3D4t4";s:7:"content";s:12:"0xnc doesn't exists!";}`
 
 **What is Deserialization?**
 
